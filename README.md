@@ -7,7 +7,7 @@ This project provides an interactive web app to test out the differences between
 
 The UI lets you draw or paste graphs, then compares star and heuristic spanning-tree strategies with circuit metrics and sampling results.
 
-[Read more on the base problem](https://link.springer.com/article/10.1007/s11128-025-04925-0) and [our improvement](https://github.com/ashboy27/Edge-based-quantum-approximate-optimization-algorithm-for-MAXCUT-problem/blob/main/our_research_paper.pdf).
+[Read more on the base problem](https://link.springer.com/article/10.1007/s11128-025-04925-0) and [our improvement](https://github.com/ashboy27/edge-based-quantum-approximate-optimization-algorithm-for-maxcut-problem/blob/main/our_research_paper.pdf).
 
 ## Installation
 
@@ -31,8 +31,8 @@ Open http://localhost:8000 in your browser.
 
 #### Setup
 ```bash
-git clone https://github.com/ashboy27/Edge-based-quantum-approximate-optimization-algorithm-for-MAXCUT-problem.git
-cd Edge-based-quantum-approximate-optimization-algorithm-for-MAXCUT-problem
+git clone https://github.com/ashboy27/edge-based-quantum-approximate-optimization-algorithm-for-maxcut-problem.git
+cd edge-based-quantum-approximate-optimization-algorithm-for-maxcut-problem
 python -m venv .venv
 # Windows PowerShell
 .\.venv\Scripts\Activate.ps1
